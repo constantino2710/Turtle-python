@@ -1,6 +1,6 @@
 import turtle
 
-lapis = turtle.Turtle
+lapis = turtle.Turtle()
 #letra A
 lapis.pencolor('blue')
 lapis.fillcolor('blue')
