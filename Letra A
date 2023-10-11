@@ -1,9 +1,9 @@
+import turtle
+
+lapis = turtle.Turtle
 #letra A
-lapis.penup()
-lapis.goto(0, 0)
 lapis.pencolor('blue')
 lapis.fillcolor('blue')
-lapis.pendown()
 lapis.begin_fill()
 lapis.right(90)
 lapis.forward(30)
