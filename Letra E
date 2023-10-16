@@ -1,0 +1,35 @@
+import turtle
+
+lapis = turtle.Turtle()
+
+lapis.pencolor('black')
+lapis.fillcolor('black')
+
+lapis.speed(8)
+
+lapis.left(90)
+lapis.forward(180)
+lapis.right(90)
+lapis.forward(110)
+lapis.right(90)
+lapis.forward(40)
+lapis.right(90)
+lapis.forward(80)
+lapis.left(90)
+lapis.forward(30)
+lapis.left(90)
+lapis.forward(80)
+lapis.right(90)
+lapis.forward(40)
+lapis.right(90)
+lapis.forward(80)
+lapis.left(90)
+lapis.forward(30)
+lapis.left(90)
+lapis.forward(80)
+lapis.right(90)
+lapis.forward(40)
+lapis.right(90)
+lapis.forward(110)
+
+turtle.exitonclick()
